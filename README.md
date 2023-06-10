@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Lucas Baez</h1>
+<h3 align="center">I am an Argentine enthusiast passionate about artificial intelligence and new challenges. The future of AI is constantly changing and it is already changing nearly every industry and impacting society in ways we are just beginning to understand. AI is a powerful tool that has the potential to transform the world as we know it, and I am excited to be part of this exciting technological revolution. In Argentina, there is a growing interest in AI, and I am always looking for new challenges to put my skills to the test. AI will change the way people work, learn, travel, get health care, and communicate with each other. As AI matures, we will need a responsive workforce capable of adapting to new processes, systems, and tools every few years. The hopeful experts generally expect that AI will work to optimize, augment, and improve human activities and experiences. AI is not a futuristic vision, but rather something that is here today and being integrated with and deployed into a variety of sectors.</h3>
 
-<!--
-**Lucasbaegit/Lucasbaegit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasbaegit" alt="lucasbaegit" /></a> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [github.com/Lucasbaegit](github.com/Lucasbaegit)
+
+- 📫 How to reach me **baezlucas@gmail.com**
+
+- ⚡ Fun fact **Something fun about me is that I love sports and spending time with friends. I enjoy watching classic soccer matches from my native Argentina, as well as Carling matches from Nordic countries. Soccer is a passion shared by millions of people around the world, and in Buenos Aires, the passion for the sport is especially enchanting. Sports are physical contests pursued for the goals and challenges they entail, and they are part of every culture past and present. I enjoy watching live soccer games and keeping up with the latest soccer news from around the world. Spending time with friends while watching sports is a great way to bond and have fun together.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/licenciadolucasbaez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="licenciadolucasbaez" height="30" width="40" /></a>
+<a href="https://instagram.com/kemica_gloss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kemica_gloss" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasbaegit&show_icons=true&locale=en&layout=compact" alt="lucasbaegit" /></p>
+
